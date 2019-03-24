@@ -7,7 +7,7 @@ Khana Shana is a web app to find nearby restaurants on a map.
 - Install NPM dependencies in terminal: `npm install`
 - Run: `npm run build`
 - Run: `npm start`
-- Navigate to localhost:8080
+- Navigate to localhost:8000
 
 
 ## Usage
